@@ -1,1 +1,186 @@
-
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap");
+body{
+  margin: 0;
+  padding: 0;
+  font-family: "Fredoka", Arail, sans-serif;
+}
+/*عنوان الاختصارات*/
+.address_kids_safey{
+  background-color: #7e3af2;
+  color: white;
+  padding-bottom: 5px;
+  position: relative;
+  bottom: 20px;
+  height: 30px;
+  padding-top: 15px;
+}
+.link_home{
+  text-decoration: none;
+  color: white;
+  position: absolute;
+  left: 110px;
+  top: 12px;
+}
+.link_safey_tips{
+  text-decoration: none;
+  color: white;
+  position: absolute;
+  left: 170px;
+  top: 12px;
+}
+.link_study_tips{
+  text-decoration: none;
+  color: white;
+  position: absolute;
+  left: 270px;
+  top: 12px;
+}
+/*القسم الرئيسي*/
+.address_keep{
+  font-size: 20px;
+  text-align: center;
+  color: #7e3af2; ;
+}
+.paragraph_simple{
+  font-size: 5px;
+  text-align: center;
+}
+.img_home{
+  position: relative;
+  left: 105px;
+  top: 17px;
+}
+.address_online{
+  font-size: 20px;
+  text-align: center;
+}
+.paragraph_learn{
+  font-size: 10px;
+}
+.link_online_safey{
+  text-decoration: none;
+  border: 2px solid #7e3af2;
+  border-radius: 10px;
+  background-color: #7e3af2;
+  position: relative;
+  left: 37px;
+  color: white;
+}
+.home_online_safey{
+  border: 2px solid hwb(90 93% 4%);
+  border-radius: 15px;
+  position: absolute;
+  top: 270px;
+  left: 5px;
+  background-color: hwb(90 93% 4%)
+}
+.address_stranger{
+  font-size: 20px;
+  text-align: center;
+}
+.paragraph_know{
+  font-size: 10px;
+}
+.link_stranger_safey{
+  text-decoration: none;
+  border: 2px solid #7e3af2;
+  border-radius: 10px;
+  background-color: #7e3af2;
+  position: relative;
+  left: 37px;
+  color: white;
+}
+.home_stranger_safey{
+  border: 2px solid hwb(90 93% 4%);
+  border-radius: 15px;
+  position: absolute;
+  top: 270px;
+  left: 190px;
+  background-color: hwb(90 93% 4%)
+}
+/*قسم نصائح السلامه*/
+.address_safey_tips{
+  font-size: 23px;
+  position: absolute;
+  top: 440px;
+  left: 126px;
+  color: #7e3af2;
+}
+.img_safey_tips{
+  position: absolute;
+  top: 537px;
+  left: 200px;
+}
+.paragraph_always{
+  font-size: 15px;
+  font-weight: bold;
+}
+.paragraph_pause{
+  font-size: 10px;
+}
+.paragraph_safey_tips_1{
+  border: 2px solid hwb(90 93% 4%);
+  border-radius: 10px;
+  position: absolute;
+  top: 500px;
+  left: 15px;
+  background-color: hwb(90 93% 4%);
+}
+.paragraph_wear{
+  font-size: 15px;
+  font-weight: bold;
+}
+.paragraph_a_helmet{
+  font-size: 10px;
+}
+.paragraph_safey_tips_2{
+  border: 2px solid hwb(90 93% 4%);
+  border-radius: 10px;
+  position: absolute;
+  top: 630px;
+  left: 15px;
+  background-color: hwb(90 93% 4%);
+}
+/*قسم نصائح المذاكره*/
+.address_study_tips{
+  font-size: 23px;
+  position: absolute;
+  top: 777px;
+  left: 126px;
+  color: #7e3af2;
+}
+.img_study_tips{
+  position: absolute;
+  top: 890px;
+  left: 200px;
+}
+.paragraph_set{
+  font-size: 15px;
+  font-weight: bold;
+}
+.paragraph_creat{
+  font-size: 10px;
+}
+.paragraph_study_tips_1{
+  border: 2px solid hwb(90 93% 4%);
+  border-radius: 10px;
+  position: absolute;
+  top: 840px;
+  left: 15px;
+  background-color: hwb(90 93% 4%);
+}
+.paragraph_take{
+  font-size: 15px;
+  font-weight: bold
+}
+.paragraph_pause_for{
+  font-size: 10px;
+}
+.paragraph_study_tips_2{
+  border: 2px solid hwb(90 93% 4%);
+  border-radius: 10px;
+  position: absolute;
+  top: 983px;
+  left: 15px;
+  background-color: hwb(90 93% 4%);
+}
